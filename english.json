@@ -1,1 +1,55 @@
 
+{
+        "date": {
+                "days": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday",
+                        "Saturday",
+                        "Sunday"
+                ],
+                "months": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                ],
+                "prefix": {
+                        "day": "d",
+                        "minute": "m",
+                        "second": "s",
+                        "week": "w",
+                        "year": "y",
+                        "month": "M",
+                        "hour": "h"
+                },
+                "name": {
+                        "day": "day(s)",
+                        "minute": "minute(s)",
+                        "second": "seconde(s)",
+                        "week": "week(s)",
+                        "year": "year(s)",
+                        "month": "month(s)",
+                        "hour": "hour(s)"
+                }
+        },
+        "database": {
+                "database_connection_failed": "[Ares DB] Connection failed: %s",
+                "query_failed": "[Ares DB] Query failed: %s",
+                "database_connected": "[Ares DB] Connected to database!",
+                "credentials_invalid": "[Ares DB] Invalid credentials!",
+                "table_invalid_columns": "[Ares DB] Invalid columns!",
+                "credentials_missing": "[Ares DB] Credentials missing!",
+                "mysqloo_not_installed": "[Ares DB] MySQLoo is not installed!"
+        }
+  }
