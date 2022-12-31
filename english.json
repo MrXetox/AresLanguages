@@ -1,29 +1,29 @@
 
 {
-        "version": "1.1.0",
+        "version": "1.0.0",
         "date": {
                 "days": [
-                        "Monday",
-                        "Tuesday",
-                        "Wednesday",
-                        "Thursday",
-                        "Friday",
-                        "Saturday",
-                        "Sunday"
+                        "monday": "Monday",
+                        "tuesday": "Tuesday",
+                        "wednesday": "Wednesday",
+                        "thursday": "Thursday",
+                        "friday": "Friday",
+                        "saturday": "Saturday",
+                        "sunday": "Sunday"
                 ],
                 "months": [
-                        "January",
-                        "February",
-                        "March",
-                        "April",
-                        "May",
-                        "June",
-                        "July",
-                        "August",
-                        "September",
-                        "October",
-                        "November",
-                        "December"
+                        "january": "January",
+                        "february": "February",
+                        "march": "March",
+                        "april": "April",
+                        "may": "May",
+                        "june": "June",
+                        "july": "July",
+                        "august": "August",
+                        "september": "September",
+                        "october": "October",
+                        "november": "November",
+                        "december": "December"
                 ],
                 "prefix": {
                         "day": "d",
